@@ -1,3 +1,3 @@
-# test
-second test repostitory for git
+
+The test repostitory for git
 
